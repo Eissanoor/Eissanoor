@@ -1,6 +1,6 @@
 ###
 <h1 align="center">Hi 👋, I'm Eissa noor</h1>
-<h3 align="center">Full-Stack Flutter Developer | Node JS Developer</h3>
+<h3 align="center">Node JS Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wasim-zaman&label=Profile%20views&color=0e75b6&style=flat" alt="wasim-zaman" /> </p>
 
@@ -8,21 +8,21 @@
 
 <p align="left"> <a href="https://twitter.com/wasim_xaman" target="blank"><img src="https://img.shields.io/twitter/follow/wasim_xaman?logo=twitter&style=for-the-badge" alt="wasim_xaman" /></a> </p>
 
-- 🔭 I’m currently working on [Hobbyzhub](https://github.com/HobbyzHub-Application)
+- 🔭 I’m currently working on [Hobbyzhub](gs1ksa:3092)
 
 - 🌱 I’m currently learning *Back-End (Node JS)*
 
-- 👨‍💻 All of my projects are available at [https://github.com/Wasim-Zaman](https://github.com/Wasim-Zaman)
+- 👨‍💻 All of my projects are available at [https://github.com/Eissanoor](https://github.com/Eissanoor)
 
-- 💬 Ask me about *Flutter | Firebase*
+- 💬 Ask me about *MongoDB | SQL | MYSQL*
 
-- 📫 How to reach me *wasim@findstoneage.com*
+- 📫 How to reach me *eisa.noor@nartec-solutions,eisa.noor@corinovate.com*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/wasim_xaman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="wasim_xaman" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/wasim-zaman-8227a6252" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/wasim-zaman-8227a6252" height="30" width="40" /></a>
-<a href="https://fb.com/wasimxaman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="wasimxaman" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/eissa-noor-43342b204/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="wasim_xaman" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/eissa-noor-43342b204/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/eissa-noor-43342b204/" height="30" width="40" /></a>
+<a href="https://web.facebook.com/brayan.khan.7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="eissanoor" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
