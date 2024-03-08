@@ -16,7 +16,7 @@
 
 - 💬 Ask me about *MongoDB | SQL | MYSQL*
 
-- 📫 How to reach me *eisa.noor@nartec-solutions ,eisa.noor@corinovate.com*
+- 📫 How to reach me *eisa.noor@nartec-solutions.com,eisa.noor@corinovate.com*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
